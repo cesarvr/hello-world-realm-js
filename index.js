@@ -143,12 +143,3 @@ let run = async () => {
 
 run()
 
-console.log('print....')
-console.log('print....')
-console.log('print....')
-console.log('print....')
-
-//first()
-//await hugeUpdate()
-
-//r()
