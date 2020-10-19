@@ -1,3 +1,7 @@
+# ignore realm files
+*.realm
+*.mx
+
 # Logs
 logs
 *.log
